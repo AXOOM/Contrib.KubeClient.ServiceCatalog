@@ -26,7 +26,7 @@
 
   <ItemGroup>
     <PackageReference Include="Contrib.KubeClient.CustomResources" Version="0.15.1" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-19351-01" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-19367-01" PrivateAssets="All" />
   </ItemGroup>
 
 </Project>
